@@ -1,0 +1,157 @@
+Script started on Sat 16 Nov 2019 01:54:20 AM EST
+]0;agupta38@dyn19-147:/afs/unity.ncsu.edu/users/a/agupta38/OS/PA2/csc501-lab2/compile[?1034h[agupta38@dyn19-147 compile](vmhost1)$ make run
+
+(process:90239): GLib-[1;33mWARNING[0m **: [34m01:54:24.964[0m: gmem.c:489: custom memory allocation vtable not supported
+c[?7l[2J[0mSeaBIOS (version 1.11.0-2.el7)
+
+
+iPXE (http://ipxe.org) 00:03.0 C980 PCI2.10 PnP PMM+07F95620+07EF5620 C980
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..system running up!
+
+
+PC Xinu (CSC501 1-2017 base) #1 (agupta38@dyn19-147.vcl) Sat Nov 16 01:54:13 EST 2019
+
+6291456 bytes real mem
+93891 bytes Xinu code
+clock enabled
+
+1: shared memory
+
+Abhishek 11/10 : Just before assigning valueProcess ID :48 Page Replecement Policy [SC] Frame Obtained :8
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :9
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :10
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :11
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :12
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :13
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :14
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :15
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :16
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :17
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :18
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :19
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :20
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :21
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :22
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :23
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :24
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :25
+
+Abhishek 11/10 : Just before printing  valueProcess ID :48 Page Replecement Policy [SC] Frame Obtained :26
+0x40000000: A
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :27
+0x40001000: B
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :28
+0x40002000: C
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :29
+0x40003000: D
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :8
+0x40004000: E
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :9
+0x40005000: F
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :10
+0x40006000: G
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :11
+0x40007000: H
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :12
+0x40008000: I
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :13
+0x40009000: J
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :14
+0x4000a000: K
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :15
+0x4000b000: L
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :16
+0x4000c000: M
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :17
+0x4000d000: N
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :18
+0x4000e000: O
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :19
+0x4000f000: P
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :20
+0x40010000: Q
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :21
+0x40011000: R
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :22
+0x40012000: S
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :23
+0x40013000: T
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :24
+0x40014000: U
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :25
+0x40015000: V
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :26
+0x40016000: W
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :27
+0x40017000: X
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :28
+0x40018000: Y
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :29
+0x40019000: Z
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :8
+0x4001a000: [
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :9
+0x4001b000: \
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :10
+0x4001c000: ]
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :11
+0x4001d000: ^
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :12
+0x4001e000: _
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :13
+0x4001f000: `
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :14
+0x40020000: a
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :15
+0x40021000: b
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :16
+0x40022000: c
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :17
+0x40023000: d
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :18
+0x40024000: e
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :19
+0x40025000: f
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :20
+0x40026000: g
+Process ID :48 Page Replecement Policy [SC] Frame Obtained :21
+0x40027000: h
+PID:48 xmunmap virtpage:40000
+
+xmunmap: removing page table : 7
+Abhishek 25 : Just before assigning value0x50000000: M
+0x50001000: N
+0x50002000: O
+0x50003000: P
+0x50004000: Q
+0x50005000: R
+0x50006000: S
+0x50007000: T
+0x50008000: U
+0x50009000: V
+0x5000a000: W
+0x5000b000: X
+0x5000c000: Y
+0x5000d000: Z
+0x5000e000: [
+0x5000f000: \
+0x50010000: ]
+0x50011000: ^
+0x50012000: _
+0x50013000: `
+PID:47 xmunmap virtpage:50000
+
+xmunmap: removing page table : 9
+
+All user processes have completed.
+
+QEMU 2.0.0 monitor - type 'help' for more information
+(qemu) 
+(qemu) q[K
+]0;agupta38@dyn19-147:/afs/unity.ncsu.edu/users/a/agupta38/OS/PA2/csc501-lab2/compile[agupta38@dyn19-147 compile](vmhost1)$ exit
+exit
+
+Script done on Sat 16 Nov 2019 01:54:49 AM EST
